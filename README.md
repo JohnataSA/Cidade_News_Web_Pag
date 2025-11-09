@@ -17,21 +17,7 @@ O objetivo é simular um portal de notícias moderno e organizado, destacando bo
 - Hierarquia semântica de títulos e blocos de conteúdo.
 
 - #Estrutura do Projeto
-  noticias-cidade/
-│
-├── index.html                # Página principal (Home)
-├── brasil.html               # Exemplo de página secundária
-├── economia.html             # Outras páginas temáticas
-├── estilo.css                # Arquivo de estilos principal
-│
-├── imagens/                  # Pasta de imagens do site
-│   ├── taxi.jpg
-│   ├── tecnologia.jpg
-│   ├── cidade.jpg
-│   ├── doutor.jpg
-│   └── ...
-│
-└── README.md                 # Documentação do projeto
+  <img width="525" height="365" alt="image" src="https://github.com/user-attachments/assets/99e8bcd2-cc0e-49ba-a3b7-e97c8ca41448" />
 
 
 #Tecnologias Utilizadas
