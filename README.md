@@ -31,7 +31,8 @@ O objetivo é simular um portal de notícias moderno e organizado, destacando bo
 │   ├── doutor.jpg
 │   └── ...
 │
-└── README.md
+└── README.md                 # Documentação do projeto
+
 
 #Tecnologias Utilizadas
 
